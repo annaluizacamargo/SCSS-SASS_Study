@@ -155,6 +155,28 @@ html, body {
   border-color: #F1E0AC;
 }
 
+html, body {
+  font-family: "Roboto", sans-serif;
+}
+
+#curiosidades {
+  padding: 1rem;
+  text-align: center;
+  margin: 5px;
+}
+#curiosidades h3 {
+  color: #495371;
+  font-size: 1.2rem;
+}
+#curiosidades h4 {
+  color: #74959A;
+  font-size: 1rem;
+}
+#curiosidades p {
+  margin-top: 5px;
+  color: #495371;
+}
+
 footer {
   text-align: center;
   font-size: 1.5rem;
