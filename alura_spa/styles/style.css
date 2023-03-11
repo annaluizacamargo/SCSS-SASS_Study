@@ -153,4 +153,16 @@ html, body {
   color: #495371;
   background-color: #74959A;
   border-color: #F1E0AC;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #495371;
+  margin-top: 1rem;
+  padding: 1.2rem;
+  background: linear-gradient(to left, #495371, #74959A, #F1E0AC);
+}
+footer i {
+  color: red;
 }/*# sourceMappingURL=style.css.map */
